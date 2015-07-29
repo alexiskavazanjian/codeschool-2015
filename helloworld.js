@@ -6,5 +6,6 @@ function onOpen() {
 }
  
 function showDialog() {
-  SpreadsheetApp.getUi().alert('Hello World!');
+  SpreadsheetApp.getUi().alert('Hello Alexis!');
 }
+
